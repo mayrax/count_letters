@@ -1,4 +1,5 @@
-# conteggio parole di un messaggio con la funzione setDefault dei dizionari
+# conteggio parole di un messaggio con la funzione setDefault dei dizionari 
+# learning github and python
 
 messaggio = "le grigliate vegetariane sono cose furlane"
 conteggio = {}
